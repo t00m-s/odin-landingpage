@@ -1,2 +1,2 @@
-# odin-landingpage
-Odin landing page project
+# Landing Page
+Landing page for "the odin project" course
